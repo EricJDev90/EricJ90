@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @EricJ90
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on anything I can help with
-- 📫 How to reach me: www.ericjdeveloper.com
